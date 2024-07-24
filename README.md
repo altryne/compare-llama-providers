@@ -1,5 +1,9 @@
+![CleanShot 2024-07-24 at 15 42 23@2x](https://github.com/user-attachments/assets/0c741cc7-4523-428c-a421-6c0c8dfb1425)
+
 # compare-llama-providers
 This is a quick test to see if all the new LLama 3.1 server providers are returning the same tokens, using Weights & Biases Weave Evaluations [https://wandb.me/weave](https://wandb.me/weave)
+
+
 
 ## Installation
 
@@ -38,3 +42,5 @@ To get started with this project, you need to install the required dependencies.
    ```
 
    Note: Make sure to keep your `.env` file private and never commit it to version control.
+
+4. ** Run the python notebook run_evals.ipynb**
